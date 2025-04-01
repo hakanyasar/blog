@@ -1,4 +1,4 @@
-tiyatro
+##tiyatro
 
 umut kavşağı (ankara dt) (nisan 2019)
 fosforlu cevriye (ankara dt) (eylül 2019)
@@ -10,8 +10,10 @@ bir delinin hatıra defteri (haziran 2023, akün sahnesi)
 richard (aralık 2024, cüneyt gökçer sahnesi)
 deli ibram divanı (şubat 2025, ulus küçük tiyatro)
 
+<br></br>
+<br></br>
 
-dizi
+##dizi
 
 the sopranos
 the wire
@@ -36,8 +38,11 @@ sex and the city -
 lost -
 peaky blinders -
 
+<br></br>
+<br></br>
 
-film
+
+##film
 
  2001: a space odyssey (1968)
  alien series (6 film) (79-86-92-97-2012-2017)
@@ -434,8 +439,8 @@ film
  kasaba (1997)
  breakdown (1997)
  fall (2022)
-the snowman (2017)
-blue velvet (1986)
-wild at heart (1990)
-twin peaks: fire walk with me (1992)
-kaçak (2010)
+ the snowman (2017)
+ blue velvet (1986)
+ wild at heart (1990)
+ twin peaks: fire walk with me (1992)
+ kaçak (2010)
