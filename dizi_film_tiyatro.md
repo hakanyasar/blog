@@ -1,42 +1,42 @@
 ## tiyatro
 
-umut kavşağı (ankara dt) (nisan 2019)
-fosforlu cevriye (ankara dt) (eylül 2019)
-gökkuşağının sonu (ankara dt) (kasım 2020)
-reis bey (aralık 2021, büyük tiyatro)
-siyahlı kadın (mart 2022, akün sahnesi)
-bir delinin hatıra defteri (haziran 2023, akün sahnesi)
-öteki (ekim 2024, cüneyt gökçer sahnesi)
-richard (aralık 2024, cüneyt gökçer sahnesi)
-deli ibram divanı (şubat 2025, ulus küçük tiyatro)
+1. umut kavşağı (ankara dt) (nisan 2019)
+2. fosforlu cevriye (ankara dt) (eylül 2019)
+3. gökkuşağının sonu (ankara dt) (kasım 2020)
+4. reis bey (aralık 2021, büyük tiyatro)
+5. siyahlı kadın (mart 2022, akün sahnesi)
+6. bir delinin hatıra defteri (haziran 2023, akün sahnesi)
+7. öteki (ekim 2024, cüneyt gökçer sahnesi)
+8. richard (aralık 2024, cüneyt gökçer sahnesi)
+9. deli ibram divanı (şubat 2025, ulus küçük tiyatro)
 
 <br></br>
 <br></br>
 
 ## dizi
 
-the sopranos
-the wire
-bron / broen (isveç / danimarka yapımı)
-breaking bad
-better call soul
-sons of anarch
-mayans m.c.
-silicon walley
-how I met yout mother
-band of brothers
-friends
-narcos
-narcos mexico
-el chapo
-13 reasons why
-true detective
-mr robot
-the office
-ozark
-sex and the city -
-lost -
-peaky blinders -
+1. the sopranos
+2. the wire
+3. bron / broen (isveç / danimarka yapımı)
+4. breaking bad
+5. better call soul
+6. sons of anarch
+7. mayans m.c.
+8. silicon walley
+9. how I met yout mother
+10. band of brothers
+11. friends
+12. narcos
+13. narcos mexico
+14. el chapo
+15. 13 reasons why
+16. true detective
+17. mr robot
+18. the office
+19. ozark
+20. sex and the city -
+21. lost -
+22. peaky blinders -
 
 <br></br>
 <br></br>
