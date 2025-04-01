@@ -1,4 +1,4 @@
-##tiyatro
+## tiyatro
 
 umut kavşağı (ankara dt) (nisan 2019)
 fosforlu cevriye (ankara dt) (eylül 2019)
@@ -13,7 +13,7 @@ deli ibram divanı (şubat 2025, ulus küçük tiyatro)
 <br></br>
 <br></br>
 
-##dizi
+## dizi
 
 the sopranos
 the wire
@@ -42,7 +42,7 @@ peaky blinders -
 <br></br>
 
 
-##film
+## film
 
  2001: a space odyssey (1968)
  alien series (6 film) (79-86-92-97-2012-2017)
