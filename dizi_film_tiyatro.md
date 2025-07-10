@@ -38,8 +38,8 @@
 17. mr robot
 18. the office
 19. ozark
-20. sex and the city -
-21. lost -
+20. lost
+21. sex and the city -
 22. peaky blinders -
 
 <br></br>
