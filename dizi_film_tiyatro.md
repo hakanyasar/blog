@@ -4,16 +4,29 @@
 
 ## tiyatro
 
-1.  umut kavşağı (ankara dt) (nisan 2019)
-2.  fosforlu cevriye (ankara dt) (eylül 2019)
-3.  gökkuşağının sonu (ankara dt) (kasım 2020)
-4.  reis bey (aralık 2021, büyük tiyatro)
-5.  siyahlı kadın (mart 2022, akün sahnesi)
-6.  bir delinin hatıra defteri (haziran 2023, akün sahnesi)
-7.  öteki (ekim 2024, cüneyt gökçer sahnesi)
-8.  richard (aralık 2024, cüneyt gökçer sahnesi)
-9.  deli ibram divanı (şubat 2025, ulus küçük tiyatro)
-10. romeo ve juliet (eylul 2025, opera sahnesi)
+1.  umut kavşağı, nisan 2019  (ankara dt)
+2.  fosforlu cevriye, eylül 2019 (ankara dt)
+3.  gökkuşağının sonu, kasım 2020 (ankara dt)
+4.  reis bey, aralık 2021 (büyük tiyatro)
+5.  siyahlı kadın, mart 2022 (akün sahnesi)
+6.  bir delinin hatıra defteri, haziran 2023 (akün sahnesi)
+7.  öteki ekim 2024 (cüneyt gökçer sahnesi)
+8.  richard, aralık 2024 (cüneyt gökçer sahnesi)
+9.  deli ibram divanı, şubat 2025 (ulus küçük tiyatro)
+10. romeo ve juliet, eylul 2025 (opera sahnesi)
+11. sen de gitme triyandafilis, şubat 2026 (cso ada)
+
+
+<br></br>
+<br></br>
+
+
+## konser
+
+1. badem, 9 ocak 2026 (müjgan)
+2. eda baba, 4 şubat 2026 (if performans hall)
+3. 
+
 
 
 <br></br>
