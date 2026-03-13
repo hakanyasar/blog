@@ -29,9 +29,10 @@
 
 ## konser
 
-1. badem, 9 ocak 2026 (müjgan)
-2. eda baba, 4 şubat 2026 (if performans hall)
-3. 
+1. ogun sanlısoy, 28 kasım 2025 (müjgan)
+2. badem, 9 ocak 2026 (müjgan)
+3. eda baba, 4 şubat 2026 (if performans hall)
+4. 
 
 
 
