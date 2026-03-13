@@ -12,7 +12,7 @@
 6.   bir delinin hatıra defteri, haziran 2023 (akün sahnesi)
 7.   la bayadere-bale, 8 şubat 2024 (opera sahnesi)
 8.   payidar-modern dans, 17 şubat 2024 (opera sahnesi)
-9.   palto, 9 mart 2024 ()
+9.   palto, 9 mart 2024 (cmk sahne eryaman)
 10.  esaretin bedeli, 30 mart 2024 (macunköy dt irfan şahinbaş sahnesi)
 11.  öteki, 4 ekim 2024 (cüneyt gökçer sahnesi)
 12.  richard, aralık 2024 (cüneyt gökçer sahnesi)
