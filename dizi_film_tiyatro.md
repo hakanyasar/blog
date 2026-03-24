@@ -2,7 +2,7 @@
 <br></br>
 <br></br>
 
-## tiyatro
+## tiyatro / opera / stand-up
 
 1.   umut kavşağı, nisan 2019  (ankara dt)
 2.   fosforlu cevriye, eylül 2019 (ankara dt)
@@ -20,7 +20,8 @@
 14.  rembetiko efsanesi, 4 mart 2025 (cso ada)
 15.  romeo ve juliet, 28 eylul 2025 (opera sahnesi)
 16.  sen de gitme triyandafilis, 25 şubat 2026 (cso ada)
-17.  
+17.  tuz biber 6'lı stand up, 21 mart 2026 (kadikoy aylak bar)
+18.  
 
 
 <br></br>
