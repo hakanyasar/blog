@@ -21,7 +21,8 @@
 15.  romeo ve juliet, 28 eylul 2025 (opera sahnesi)
 16.  sen de gitme triyandafilis, 25 şubat 2026 (cso ada)
 17.  tuz biber 6'lı stand up, 21 mart 2026 (kadikoy aylak bar)
-18.  
+18.  lucia di lammermoor (ankara DOB opera), 1 nisan 2026 (ulus opera sahnesi)
+19.  
 
 
 <br></br>
