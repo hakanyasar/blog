@@ -22,7 +22,8 @@
 16.  sen de gitme triyandafilis, 25 şubat 2026 (cso ada)
 17.  tuz biber 6'lı stand up, 21 mart 2026 (kadikoy aylak bar)
 18.  lucia di lammermoor (ankara DOB opera), 1 nisan 2026 (ulus opera sahnesi)
-19.  
+19.  arşın mal alan (ankara DOB opera), 8 nisan 2026 (ASM kırmızı salon)
+20.  
 
 
 <br></br>
